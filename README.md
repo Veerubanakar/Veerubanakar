@@ -6,6 +6,8 @@
  Embedded C/C++
  Communication Protocols(UART,SPI,I2C,CAN)
  Firmware Development
- Microcontroller Programming (ARM Cortex-M7, STM32-nucleo-F767ZI, PIC16F877A, RanesanRA6, Mongoose WebServer)
+ Microcontroller Programming (ARM Cortex-M7, STM32-nucleo-F767ZI, PIC16F877A, RanesasRA6M3, Mongoose WebServer)
  Version Control (Git)
+WIFI
+4G
 
